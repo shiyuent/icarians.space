@@ -103,10 +103,10 @@ def main():
     allmposts['url'] = 'microblog.html'
     save_to_html(allmposts, sitedir)
 
-    blog_feed = AtomFeed(title="Yuchen Pei's Blog",
-                         feed_url="https://ypei.me/blog-feed.xml",
-                         url="https://ypei.me",
-                         author="Yuchen Pei")
+    blog_feed = AtomFeed(title="Xiaowei Xu's Blog",
+                         feed_url="https://shiyuent.github.io/https://ypei.me/blog-feed.xml",
+                         url="https://shiyuent.github.io/",
+                         author="Xiaowei Xu")
     for post in posts:
         blog_feed.add(title=post["title"],
                       content=post["body"],
@@ -117,15 +117,15 @@ def main():
     blog_feed_item = {'body':blog_feed.to_string(), 'url': 'blog-feed.xml'}
     save_to_html(blog_feed_item, sitedir)
 
-    microblog_feed = AtomFeed(title="Yuchen Pei's Microblog",
-                         feed_url="https://ypei.me/microblog-feed.xml",
-                         url="https://ypei.me",
-                         author="Yuchen Pei")
+    microblog_feed = AtomFeed(title="Xiaowei Xu's Microblog",
+                         feed_url="https://shiyuent.github.io/microblog-feed.xml",
+                         url="https://shiyuent.github.io/",
+                         author="Xiaowei Xu")
     for micropost in microposts:
         microblog_feed.add(title=micropost["date"],
                       content=micropost["body"],
                       content_type="html",
-                      author="Yuchen Pei",
+                      author="Xiaowei Xu",
                       url="microblog.html",
                       updated=micropost["date"])
     microblog_feed_item = {'body':microblog_feed.to_string(), 'url': 'microblog-feed.xml'}

@@ -10,13 +10,17 @@ import pypandoc
 import logging
 from lxml import etree
 from pyatom import AtomFeed
+import datetime
+
+# yaml.warnings({'YAMLLoadWarning': False})
 
 def item_from_path(path):
     with open(path) as f:
         text = f.read()
     p = re.compile(r'---\n(.*?)\n---(.*)', re.DOTALL)
     matchres = p.search(text)
-    res = yaml.load(matchres.group(1))
+    # res = yaml.load(matchres.group(1))
+    res = yaml.load(matchres.group(1), Loader=yaml.FullLoader)
     x, ext = os.path.splitext(path)
     res.setdefault('name', os.path.basename(x))
     if ext in ['.md', '.markdown']:
@@ -30,6 +34,7 @@ def item_from_path(path):
     res.setdefault('synlen', 1)
     paras = etree.HTML(res['body']).xpath('//p')
     res['synopsis'] = ''.join([etree.tostring(p, encoding='unicode') for p in paras[:res['synlen']]])
+    # res['synopsis'] = ''.join([etree.tounicode(p) for p in paras[:res['synlen']]])
     return res
 
 def combine(item, template):
@@ -111,7 +116,7 @@ def main():
         blog_feed.add(title=post["title"],
                       content=post["body"],
                       content_type="html",
-                      author="Yuchen Pei",
+                      author="Xiaowei Xu",
                       url=post["url"],
                       updated=post["date"])
     blog_feed_item = {'body':blog_feed.to_string(), 'url': 'blog-feed.xml'}

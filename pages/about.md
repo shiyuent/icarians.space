@@ -4,14 +4,13 @@ title: Xiaowei Xu
 name: index
 ---
 
-Xiaowei is a Ph.D. in fluid mechanics at the [Unimelb Fluid Mechanics Group](https://fluids.eng.unimelb.edu.au/).
-Before Unimelb he did a Master at the Tongji University.
+Xiaowei is a Ph.D. candidate in fluid mechanics at the [Unimelb Fluid Mechanics Group](https://fluids.eng.unimelb.edu.au/).
+Before starting at Unimelb, he did a Master of Philosophy on Bridge Engineering at the Tongji University.
 
-He is interested in turbulence modelling and machine learning.
+He is interested in turbulence modelling, machine learning, and bridges and wind turbines.
 
 He can be reached at:
-[Github](https://github.com/shiyuent)
+[Github](https://github.com/shiyuent), and xiaoweix2@student.unimelb.edu.au.
 
-This website is made using a [handmade static site generator](https://github.com/ycpei/ypei.me/blob/master/engine/engine.py), forked from [yupei](https://ypei.me/).
 
 Unless otherwise specified, all contents on this website are licensed under [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).

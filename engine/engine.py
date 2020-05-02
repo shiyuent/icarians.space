@@ -110,8 +110,8 @@ def main():
     save_to_html(allmposts, sitedir)
 
     blog_feed = AtomFeed(title="Xiaowei Xu's Blog",
-                         feed_url="https://shiyuent.github.io/https://www.icanians.space/blog-feed.xml",
-                         url="https://www.icarians.space",
+                         feed_url="https://icanians.space/blog-feed.xml",
+                         url="https://icarians.space",
                          author="Xiaowei Xu")
     for post in posts:
         blog_feed.add(title=post["title"],
@@ -124,8 +124,8 @@ def main():
     save_to_html(blog_feed_item, sitedir)
 
     microblog_feed = AtomFeed(title="Xiaowei Xu's Microblog",
-                         feed_url="https://shiyuent.github.io/microblog-feed.xml",
-                         url="http://www.icarians.space",
+                         feed_url="https://icanians.space/microblog-feed.xml",
+                         url="http://icarians.space",
                          author="Xiaowei Xu")
     for micropost in microposts:
         microblog_feed.add(title=micropost["date"],

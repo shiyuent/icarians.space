@@ -9,7 +9,7 @@ Xiaowei is a Ph.D. candidate (started at Sep. 2017) in fluid mechanics under the
 
 I received a MPhil. in Bridge Engineering from Tongji University (同濟) supervised by [Prof. Yaojun Ge](https://bridge.tongji.edu.cn/Data/View/279) and [Prof. Yongxin Yang](https://bridge.tongji.edu.cn/Data/View/285) in 2017. Before that, I completed a B.Sc in Civil Engineering from Hunan University (嶽麓) under the supervision of Prof. Zhi Fang in 2013.
 
-I am interested in turbulence modelling, machine learning, and bridges and wind turbines. I am fond of reading books about history, philosophy and films. 
+I am interested in turbulence modelling, machine learning, and structures such as bridges, wind turbines. I am fond of reading books about history, philosophy and films. 
 
 Feel free to contact me via:
 [Github page](https://github.com/shiyuent), xiaoweix2@student.unimelb.edu.au.
@@ -22,7 +22,7 @@ Feel free to contact me via:
 
 **2020**
 
-*2020-01-15* Back to Hangzhou for annnual leave, till March 01, went to Thailand for 1st quarantine, then the 2nd quarantine at Melboure, finished at March 31
+*2020-01-15* Back to Hangzhou for annnual leave, till March 01, went to Thailand for 1st quarantine, then the 2nd quarantine at Melbourne, finished at March 31
 
 
 
@@ -54,7 +54,15 @@ Feel free to contact me via:
 
 *2017-03-20* Master Degree Deference on ‘Aero Instability of Long Span Hybrid Suspension and Cable-stayed Bridges’ 
 
+---
 
+**Projects**
+
+Mechanism analysis and performance of recycled aggregate concrete improved by cementitious materials (DSP and RPC), 2010-2013, Students Innovation Training Program (National Level) with $ 3,000 grant
+
+The Fundamental Research on the Control of Life Cycle Hazard Evolution and Performance Design of Super Long Span Bridges,Participation,2013CB036300
+
+Wind Tunnel Study on Wind-resistant Performances of Shuitu Jialing River Cable-stayed Bridge in Chongqing, 2014-2015, TYLIN International Engineering Consulting (China) Co. LTD. 
 
 ---
 

@@ -28,7 +28,7 @@ Feel free to contact me via:
 
 **2019**
 
-*2019-12-10* Machine learnt heat flux models for turbulent mixed convection, 11th Australasian Natural Convection Workshop, Sydney
+*2019-12-10* Machine learnt heat flux models for turbulent mixed convection, 11th Australian Natural Convection Workshop, Sydney
 
 *2019-11-30*  Research symposium for Chinese PhD students and scholars in Australia
 

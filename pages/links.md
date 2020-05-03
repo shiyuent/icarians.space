@@ -2,10 +2,14 @@
 template: default
 title: Links
 ---
-Here are some links I find interesting or helpful, or both. Listed in no particular order.
+Here are some links or people I find interesting or helpful, or both. Listed in no particular order.
 
--   [arXiv](https://arxiv.org)
+-   [Vassili Kitsios](https://sites.google.com/view/vassilikitsios/projects)
+-   [Ke Li](https://www.mendeley.com/authors/57013752000/), (bridge aerodynamics)
+-   [Prof. Lars Davidsson](http://www.tfd.chalmers.se/~lada/)
 
--   [Vi IMproved](http://www.vim.org) - the one true text editor.
-    Plugins:
-    -   [vim-latex](http://vim-latex.sourceforge.net/) - for latexing
+
+
+**resource**
+
+1. [Turbulence modelling](http://www.tfd.chalmers.se/~lada/postscript_files/solids-and-fluids_turbulent-flow_turbulence-modelling.pdf)

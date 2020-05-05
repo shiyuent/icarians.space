@@ -1,7 +1,6 @@
 ---
 template: post
 date: 2020-01-19
-
 title: 過客
 ---
 

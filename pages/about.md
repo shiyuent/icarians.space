@@ -14,8 +14,6 @@ I am interested in turbulence modelling, machine learning, and structures such a
 Feel free to contact me via:
 [Github page](https://github.com/shiyuent), xiaoweix2@student.unimelb.edu.au.
 
-
-
 ---
 
 **News**

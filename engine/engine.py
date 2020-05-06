@@ -52,7 +52,7 @@ def main():
     pagesdir = basedir + 'pages/'
     postsdir = basedir + 'posts/'
     micropostsdir = basedir + 'microposts/'
-    sitedir = basedir + 'site/'
+    sitedir = basedir + 'dist/'
     templatesdir = basedir + 'templates/'
     homepostnum = 5
     

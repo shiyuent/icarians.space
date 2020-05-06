@@ -11,9 +11,9 @@
   <generator>PyAtom</generator>
   <entry xml:base="https://icanians.space/blog-feed.xml">
     <title type="text">過客</title>
-    <id>posts/2020-01-19-traveller.html</id>
+    <id>2020-01-19-traveller.html</id>
     <updated>2020-01-19T00:00:00Z</updated>
-    <link href="posts/2020-01-19-traveller.html" />
+    <link href="2020-01-19-traveller.html" />
     <author>
       <name>Xiaowei Xu</name>
     </author>
@@ -52,9 +52,9 @@
   </entry>
   <entry xml:base="https://icanians.space/blog-feed.xml">
     <title type="text">也說辭舊</title>
-    <id>posts/2019-02-03-new-year.html</id>
+    <id>2019-02-03-new-year.html</id>
     <updated>2019-02-03T00:00:00Z</updated>
-    <link href="posts/2019-02-03-new-year.html" />
+    <link href="2019-02-03-new-year.html" />
     <author>
       <name>Xiaowei Xu</name>
     </author>
@@ -96,9 +96,9 @@
   </entry>
   <entry xml:base="https://icanians.space/blog-feed.xml">
     <title type="text">博途碎念</title>
-    <id>posts/2020-05-04-phd-trip.html</id>
+    <id>2020-05-04-phd-trip.html</id>
     <updated>2017-09-05T00:00:00Z</updated>
-    <link href="posts/2020-05-04-phd-trip.html" />
+    <link href="2020-05-04-phd-trip.html" />
     <author>
       <name>Xiaowei Xu</name>
     </author>
@@ -165,9 +165,9 @@
   </entry>
   <entry xml:base="https://icanians.space/blog-feed.xml">
     <title type="text">舊友如鏡</title>
-    <id>posts/2017-08-16-friend-mirror.html</id>
+    <id>2017-08-16-friend-mirror.html</id>
     <updated>2017-08-16T00:00:00Z</updated>
-    <link href="posts/2017-08-16-friend-mirror.html" />
+    <link href="2017-08-16-friend-mirror.html" />
     <author>
       <name>Xiaowei Xu</name>
     </author>
@@ -202,9 +202,9 @@
   </entry>
   <entry xml:base="https://icanians.space/blog-feed.xml">
     <title type="text">蹇別南渡</title>
-    <id>posts/2017-07-30-hardship.html</id>
+    <id>2017-07-30-hardship.html</id>
     <updated>2017-07-30T00:00:00Z</updated>
-    <link href="posts/2017-07-30-hardship.html" />
+    <link href="2017-07-30-hardship.html" />
     <author>
       <name>Xiaowei Xu</name>
     </author>
@@ -238,9 +238,9 @@
   </entry>
   <entry xml:base="https://icanians.space/blog-feed.xml">
     <title type="text">難別灞橋</title>
-    <id>posts/2017-03-24-goodbye.html</id>
+    <id>2017-03-24-goodbye.html</id>
     <updated>2017-03-24T00:00:00Z</updated>
-    <link href="posts/2017-03-24-goodbye.html" />
+    <link href="2017-03-24-goodbye.html" />
     <author>
       <name>Xiaowei Xu</name>
     </author>

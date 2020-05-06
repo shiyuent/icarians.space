@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Xiaowei Xu's Blog</title>
-  <id>https://icanians.space/blog-feed.xml</id>
+  <id>https://icanians.space/dist/blog-feed.xml</id>
   <updated>2020-01-19T00:00:00Z</updated>
   <link href="https://icarians.space" />
-  <link href="https://icanians.space/blog-feed.xml" rel="self" />
+  <link href="https://icanians.space/dist/blog-feed.xml" rel="self" />
   <author>
     <name>Xiaowei Xu</name>
   </author>
   <generator>PyAtom</generator>
-  <entry xml:base="https://icanians.space/blog-feed.xml">
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
     <title type="text">過客</title>
     <id>2020-01-19-traveller.html</id>
     <updated>2020-01-19T00:00:00Z</updated>
@@ -50,7 +50,7 @@
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="https://icanians.space/blog-feed.xml">
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
     <title type="text">也說辭舊</title>
     <id>2019-02-03-new-year.html</id>
     <updated>2019-02-03T00:00:00Z</updated>
@@ -94,7 +94,7 @@
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="https://icanians.space/blog-feed.xml">
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
     <title type="text">博途碎念</title>
     <id>2020-05-04-phd-trip.html</id>
     <updated>2017-09-05T00:00:00Z</updated>
@@ -163,7 +163,7 @@
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="https://icanians.space/blog-feed.xml">
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
     <title type="text">舊友如鏡</title>
     <id>2017-08-16-friend-mirror.html</id>
     <updated>2017-08-16T00:00:00Z</updated>
@@ -200,7 +200,7 @@
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="https://icanians.space/blog-feed.xml">
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
     <title type="text">蹇別南渡</title>
     <id>2017-07-30-hardship.html</id>
     <updated>2017-07-30T00:00:00Z</updated>
@@ -236,7 +236,7 @@
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="https://icanians.space/blog-feed.xml">
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
     <title type="text">難別灞橋</title>
     <id>2017-03-24-goodbye.html</id>
     <updated>2017-03-24T00:00:00Z</updated>

@@ -61,7 +61,8 @@ def main():
     posts = get_all_items(postsdir)
     posts.sort(key=lambda x: x['date'], reverse=True)
     for post in posts:
-        post.setdefault('url', 'posts/{}.html'.format(post['name']))
+        # post.setdefault('url', 'posts/{}.html'.format(post['name']))
+        post.setdefault('url', '{}.html'.format(post['name']))
         with open('{}{}.html'.format(templatesdir, post['template'])) as f:
             template = f.read()
         post = combine(post, template)

@@ -3,7 +3,7 @@ template: post
 date: 2017-03-24
 title: 難別灞橋
 ---
-To all that I can't leave behind... To all the moments that I'm stuck in... To those who have lost their beloved treasure...
+> To all that I can't leave behind... To all the moments that I'm stuck in... To those who have lost their beloved treasure...
 
 #### 001. 暗湧
 
@@ -13,7 +13,7 @@ To all that I can't leave behind... To all the moments that I'm stuck in... To t
 
 #### 002. 同類
 
-The greatest thing we've learnt is to love and to be loved in return. --adapation, Nature Boy.
+> The greatest thing we've learnt is to love and to be loved in return. --adapation, Nature Boy.
 
 當置身在一萬公尺的高空，身畔無人可以言語，此時的結束便一如當時的開始：煢煢獨立，顧影難眠。不禁回望，最初彼此吸引的是什麼？
 
@@ -41,7 +41,7 @@ The greatest thing we've learnt is to love and to be loved in return. --adapatio
 
 #### 004. 永遠
 
-I was blind I could not see, A boy tries to be a man. -- I will follow, U2
+> I was blind I could not see, A boy tries to be a man. -- I will follow, U2
 
 人一生能被一個念頭纏繞多久？那是獨家的思念。一個燥熱的下午，藕紫色的短衫襯著專注的你。往後同桌的歲月裡，你偶爾也會穿起那件衣服，融在黃昏的夕陽裡，染金俏嫩的顏。
 
@@ -67,7 +67,7 @@ I was blind I could not see, A boy tries to be a man. -- I will follow, U2
 
 #### 006. 漩渦
 
-Reach me, I know I'm not a hopelss case. -- Beautiful Day, U2
+> Reach me, I know I'm not a hopelss case. -- Beautiful Day, U2
 
 未知的不安也許並非漩渦，熟悉的無奈才是。你的絕望是我，我的絕望是迷途。我隨漩渦而下，直到颱風眼，那兒卻風平浪靜。可是，你還記那些風雨，還記得那些害怕。於是你走開，於是你不在。我想，人丢弃一个人的残忍和拥有它的喜悦是一样的。喜悦着聚合，失望着決絕。怀念时候，才知道模糊不清的记忆里，再也無福清晰起熟悉的面庞。不是因爲遺忘，而是現實的刺痛，冷漠的刺痛。
 
@@ -91,7 +91,7 @@ Reach me, I know I'm not a hopelss case. -- Beautiful Day, U2
 
 #### 008. 灞橋
 
-Maybe I didn't love you, Quite as often as I could have, Little things I should have said and done. I just never took the time -- Always on my mind
+> Maybe I didn't love you, Quite as often as I could have, Little things I should have said and done. I just never took the time -- Always on my mind
 
 我一直在回望，回望這段不長不短的路，這最好的時光。灞陵的古道寄託了多少歲月的離殤，路岐在西山寒月，在骊歌風雪。卻未曾想到，在未見的熒幕，在千里外的電波，在未名暮春的殘園。三月裏，柳枝揚起河岸的醉盲；十月末，蹇鞍顛簸着泥土的空囊。一別後，消逝的再也不再，離別的再也不來。
 
@@ -103,7 +103,7 @@ Maybe I didn't love you, Quite as often as I could have, Little things I should 
 
 #### 009. 懷念
 
-“單身去生活，若不能得到”。-- 2011.03.26，日記，給十年後的自己 （To 2021）
+> “單身去生活，若不能得到”。-- 2011.03.26，日記，給十年後的自己 （To 2021）
 
 如今，惋惜着擁有又失去的時光。帶着膽怯的悲哀翻看過去。唯鼓足勇氣才會回想，就如同去墳地里轉一圈。墳是弔祭分手的食糧，縱然這儀式曾發生在刪除重加又刪除的社交網絡裏。但過往就在那裏，猶如一個難以磨滅的碑。埋葬這悲痛者所肯定過的存在之紀念。紀念讓存在存在，紀念讓美好悲哀。再去一趟吧，最後一次，一遍遍的最後一次，熟悉這墳墓的血淚。那裏是陰森恐怖的霾境，有腐臭的尸味，有背後的步聲，更有不明的故去。故去如此驚怖，有時會是一段痛苦的回憶，而有時並非如此，有時卻也更加如此。
 

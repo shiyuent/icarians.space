@@ -3,7 +3,6 @@ template: post
 date: 2015-05-21
 title: 淺談譯名
 ---
-
 「Lost in Translation」是由美国电影界知名Coppola家族的Sofia Coppola执导的一部爱情文艺片，讲述了一个处于中年危机的美国男影星Bob Harris为了两百万美元薪酬来到日本东京接拍Suntory whisky广告并因寂寞难耐与被忙于追求物质与自由的摄影师丈夫所忽略的新婚少妇Charlotte在相识、相知。两颗孤寂并渴望被理解的心在格格不入的异国他乡悄然相恋。Lost in Translation有多种译名，广为接受的有《迷失东京》、《迷语东京》和《爱情，不用翻译》。《迷失东京》是就男女主人公在陌生城市与文化中的迷失而言，过于直接和草率；《迷语东京》则是针对影片结尾时男女主角的耳语，这耳语似乎成了千古之谜。纵观整部电影，爱情真的不需解释么？男女主角在繁华的都市丛林中迷失，他们究竟“lost”的是什么呢？ 导演Sofia Coppola所指向的又是什么？
 
 美国诗人弗罗斯特在定义Poetry 时有一句广为流传的话：What is poetry? Poetry is what gets lost in translation. 事实上，不只是诗歌会迷失在传达中，爱情、亲情、友情等等凡是涉及到人与人、人与社会交流与寻找的话题总会有不尽如人意的lost。

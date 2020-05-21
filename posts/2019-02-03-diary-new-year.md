@@ -3,14 +3,13 @@ template: post
 date: 2019-02-03
 title: 也說辭舊
 ---
+> In adolescence, I hated life and was continually on the verge of suicide, from which, however, I was restrained by the desire to know more mathematics. Now, on the contrary, I enjoy life; I might almost say that with every year that passes I enjoy it more. This is due partly to having discovered what were the things that I most desired, and having gradually acquired many of these things. Partly it is due to having successfully dismissed certain objects of desire - such as the acquisition of indubitable knowledge about something or other — as essentially unattainable. But very largely it is due to a diminishing preoccupation with myself. Like others who had a Puritan education, I had the habit of meditating on my sins, follies, and shortcomings. I seemed to myself — no doubt justly — a miserable specimen. Gradually I learned to be indifferent to myself and my deficiencies; I came to centre my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection. -The Conquest of Happiness (1930) is a book by Bertrand Russell.
 
 19年一月有餘，感觸良多，寫些可有可無的話。告知己書，不頹的說說歲末的心態。  
 
 往往，給人感觸最多的不是照臨大地的歷史大事兒，而是時間裏潛在的小事兒。時間塗畫無數的相逢與分別，描繪難盡的前行與後退。今年無疑是我整個觀念變化最大的一次，是時間給了我變化，無聲有形。工作時間照舊，但是終於能在正點睡着了，也能早起了；飲食上開始抵制很多肉食，倒不是不吃，只是想少吃；自己也樂得每天在屋子裏面收拾整齊，或者按時做點飯。動輒會想到必要時候節約點塑料用品，吃光冰箱裏的東西，寧可少做點東西也不去剩餘，少喝點碳酸飲料，做些可有可無的有氧運動，拍些記錄性質的照片。總得是，歲月給的一種生活習慣。
 
 那我的心態是什麼？   給個人劃界線，2017年是大標記，2012年也應該是也是個大標記。2012年是全情投入感情生活序曲，實現了久久縈繞在心頭的給自己童年、青春期的許諾；2017年則是真正從焦急的迷茫，走向放棄的穩定；今年元旦起開始，從焦慮走向真正平靜的開始。青春期強說愁的想去或者說爲死亡着迷的歲月，是在一段感情的開始而結束的；浮起來的心態是，活着可以爲她和家人做蠻多事情，開心也罷，傷感也罷。從輕生的無能，走向貪圖的想活。17年始，認識到個人體驗的淺薄，於是看了很多   電影、聽了蠻多音樂、還有讀了一些大部頭的書；然而焦慮的心態沒有改變。今年，我想自己慢慢過度到：要悲觀卻不失去幽默活着的，以及要記錄個人體驗、階段性結果。所以，是從輕生、貪生、平淡生活，到思考存活的意義是什麼？  答案當然不是爲了親人、也不是爲了生而生，而是追尋和記錄一代人的符號，尤其是自己的符號。
-
-> In adolescence, I hated life and was continually on the verge of suicide, from which, however, I was restrained by the desire to know more mathematics. Now, on the contrary, I enjoy life; I might almost say that with every year that passes I enjoy it more. This is due partly to having discovered what were the things that I most desired, and having gradually acquired many of these things. Partly it is due to having successfully dismissed certain objects of desire - such as the acquisition of indubitable knowledge about something or other — as essentially unattainable. But very largely it is due to a diminishing preoccupation with myself. Like others who had a Puritan education, I had the habit of meditating on my sins, follies, and shortcomings. I seemed to myself — no doubt justly — a miserable specimen. Gradually I learned to be indifferent to myself and my deficiencies; I came to centre my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection. -The Conquest of Happiness (1930) is a book by Bertrand Russell.
 
 那麼，從感情、工作兩個逃不過的註腳符開始說起。
 

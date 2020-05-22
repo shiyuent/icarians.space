@@ -2,13 +2,200 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Xiaowei Xu's Blog</title>
   <id>https://icanians.space/dist/blog-feed.xml</id>
-  <updated>2020-05-21T00:00:00Z</updated>
+  <updated>2020-05-23T00:00:00Z</updated>
   <link href="https://icarians.space" />
   <link href="https://icanians.space/dist/blog-feed.xml" rel="self" />
   <author>
     <name>Xiaowei Xu</name>
   </author>
   <generator>PyAtom</generator>
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
+    <title type="text">書課人表</title>
+    <id>2020-05-23-course-list.html</id>
+    <updated>2020-05-23T00:00:00Z</updated>
+    <link href="2020-05-23-course-list.html" />
+    <author>
+      <name>Xiaowei Xu</name>
+    </author>
+    <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang=""&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8" /&gt;
+  &lt;meta name="generator" content="pandoc" /&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" /&gt;
+  &lt;title&gt;Untitled&lt;/title&gt;
+  &lt;style type="text/css"&gt;
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  &lt;/style&gt;
+  &lt;!--[if lt IE 9]&gt;
+    &lt;script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"&gt;&lt;/script&gt;
+  &lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;Course List&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 46%" /&gt;
+&lt;col style="width: 26%" /&gt;
+&lt;col style="width: 13%" /&gt;
+&lt;col style="width: 13%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class="header"&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Author&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;Philosophy of Kant: Critique of pure reason&lt;/td&gt;
+&lt;td&gt;Prof. Don Robinson&lt;/td&gt;
+&lt;td&gt;2016.04&lt;/td&gt;
+&lt;td&gt;2016.10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Introduction to microeconomics (M.I.T.)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2016.05&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;European Civilization, 1648-1945&lt;/td&gt;
+&lt;td&gt;Prof. John Merriman&lt;/td&gt;
+&lt;td&gt;2016.11&lt;/td&gt;
+&lt;td&gt;2018.12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Intro. to political Philosophy (20/20)&lt;/td&gt;
+&lt;td&gt;Prof. Steven Smith&lt;/td&gt;
+&lt;td&gt;2019.01&lt;/td&gt;
+&lt;td&gt;2020.01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;General philosophy&lt;/td&gt;
+&lt;td&gt;Prof. Peter Millican&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Game theory (159)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2016.11&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;General philosophy&lt;/td&gt;
+&lt;td&gt;Peter Millican&lt;/td&gt;
+&lt;td&gt;2019.01&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Introduction to haptic&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2019.03&lt;/td&gt;
+&lt;td&gt;2020.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;Financial markets&lt;/td&gt;
+&lt;td&gt;Prof. Robert J. Shiller&lt;/td&gt;
+&lt;td&gt;2019.09&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Financial theory&lt;/td&gt;
+&lt;td&gt;Prof. John Geanakoplos&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;Hemingway, Fitzgerald, Faulkner&lt;/td&gt;
+&lt;td&gt;Prof. Wai Chee Dimock&lt;/td&gt;
+&lt;td&gt;2019.10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Capitalism: Success, Crisis, and Reform&lt;/td&gt;
+&lt;td&gt;Prof. Douglas W. Rae&lt;/td&gt;
+&lt;td&gt;2019.02&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;Introduction to theory of literation&lt;/td&gt;
+&lt;td&gt;Prof. Paul Fry&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;The logic manual&lt;/td&gt;
+&lt;td&gt;Volker Halbach&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;Death&lt;/td&gt;
+&lt;td&gt;Prof, Shelly Kagan&lt;/td&gt;
+&lt;td&gt;2020.02&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Listen to music&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2016.04&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;經濟學原理&lt;/td&gt;
+&lt;td&gt;林明仁&lt;/td&gt;
+&lt;td&gt;2020.01&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;英語語音學&lt;/td&gt;
+&lt;td&gt;Karen Steffen Chung&lt;/td&gt;
+&lt;td&gt;2020.01&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;Introduction to psychology&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2020.01&lt;/td&gt;
+&lt;td&gt;2020.02&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Frontier, neuroscience&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2020.02&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;18.336 Numerical method for PDE&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td&gt;Philosophy and the science of Human Nature&lt;/td&gt;
+&lt;td&gt;Tamar Szabó Gendler&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td&gt;Intro to Theory of Literature&lt;/td&gt;
+&lt;td&gt;Paul H. Fry&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
   <entry xml:base="https://icanians.space/dist/blog-feed.xml">
     <title type="text">日語入門</title>
     <id>2020-05-21-course-japanese.html</id>
@@ -53,7 +240,7 @@
 &lt;ul&gt;
 &lt;li&gt;2020.05 平仮名 （認/讀/寫、濁音、小号的「や」、「ゆ」、和「よ」、「つ」、長元音）, 了解漢字（初步區分漢、日常用不同）&lt;/li&gt;
 &lt;li&gt;2020.06 片仮名(讀寫、長元音、小号的「ア、イ、ウ、エ、オ」)&lt;/li&gt;
-&lt;li&gt;2020.07 語法（）&lt;/li&gt;
+&lt;li&gt;2020.07 語法（待定）&lt;/li&gt;
 &lt;/ul&gt;
 內容上：
 &lt;ul&gt;
@@ -420,20 +607,22 @@
 &lt;p&gt;&lt;人間詞話&gt;首句即言： 詞以境界為最上，有境界則自成高格，自有名句。境界者，對生命之認識；高格者，浩然之氣；名句者，所傳世之作。作為一個剛入門的研究者，若無心生此中準則，也許只會與此時的追尋越來越遠。也許這些看法過於理想化，卻無法不在內心生發出來，因為此時：霧失樓台、月迷津渡。&lt;/p&gt;
 &lt;p&gt;于2017/09/23 Melb&lt;/p&gt;
 &lt;h3 id="二記-森林尋路"&gt;二記： 森林尋路&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Research：research is re-search, redo it again and again with documents and publication。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;前接上文，來此月余，最明顯體驗，在於內心的不安定感。所謂不安定感，不再是之前的恐慌，畢竟一個傭人能做的，是在此時狀況下多邁出一步路而已。不安定是在眾多研究想法中，無法找到合適的用力方向。力量有專注與集中才會有結果，而不是像我現在這樣子，有很多想法，卻不集中用力。而想要安定下來，就要和導師及自己達成共同的志向。顯然，此時和以後的導師都不會滿足這一點。所以要盡快的完成Dr的過程。在撿拾基礎的同時，發散自己的想法和興趣，與未來可能的基金相互融合。唯有有能力自立，才能去挑三揀四。&lt;/p&gt;
 &lt;p&gt;同時，更為清晰的是對于此個方向的不滿足，不滿足的同時而且有些抵抗力。導師有二，大導師的資源和研究能力非常強，但是在過去的兩個月中從來沒有主動聯繫過我。唯一就是在我發一封郵件后，下午都的十幾分鐘的對話。小導師有很好的idea和國內的人脈，並且對于我期望很高，交付了幾乎目前新方向中最好的一個課題。如此好的條件，自己反感的是什麼？無疑開始反問自己想要獲得什麼，想要得到什麼。 而問題漸漸清晰的是，我需求對于數學、編程、語言的應用能力。 然而如果堅持在此時方向上，我固然可以做很多，卻離理想越來越遠。這是首個原因。其二，功利式的期待讓我的內心反而有所不適應。無法否認在以後的學術生涯中，我將花更多的時間和精力去追求功利式的應用，但在此時的四年裡面，我並不想如此。這是堅決而明確的唸頭。其三，在一個多月投入Concrete creep and shrinkage 和 Bridge Weigh-In-Motion的文獻研究后，一股抗力油然而生。抗力來源於熟識幾位專家的成果和所做的事情，自己在這些角度上形成了偏見： 與學術貴族的學子學孫相互競爭，且自己不夠喜歡的方向上前行，而抱有功利式的期待，這是對自己的不尊重。而同步去學習基礎物理、流體知識，越難越讓我認知到自己的堅持。我要記住此時的感受，此時的興趣，就是對與以後的興趣之源。而自己也更加清晰的認識到對于控制、穩定性、計算力學的喜愛。且不想讓自己一直處於世界各項發展的夕陽餘暉之中。&lt;/p&gt;
 &lt;p&gt;其四，可能是一些誤解。誤解其一，對於科研的奮力，無原創力的刷論文，我絲毫不感興趣。上述觀念是我之前不具備的，當然也就與學術界的評價體系相悖。 同時，我也不應該以論文數量為導向，而是應在此時的方向下，我要保持最原始的興趣。從這一點展開而來，之後對于同事几乎无人、課題不喜愛等等多方面的不滿，有可能是一種逃避。但是就方向而言，我反复拷问内心做学术的初衷，在这里首个月，我认为应该做些更贴近自然现象的课题。但反過來說，只想研究纯自然领域，那么大学以来，多年来的选择都是一种利益驱动下的妥协。进而也就无法说服自己在未来几年中活成一个理想型的人。故而沉下心来提升个人的硬实力，而不是在遇到一些困难时候，将打退堂鼓的心态转换成虚无的兴趣。這是其中一條的掙扎和誤解。 誤解其二，是對於研究興趣的妥協，我無法說服自己去做不相關的課題，但在另一個課題遇到困難時候，自己也會覺得枯燥。所以，與其是轉向，不如是讓自己充滿探究未知的喜悅。而未知的喜悅并不會因為角度的不同有變化。所以應該更抓住這些invariance，而不是隨著coordinate而變化。&lt;/p&gt;
 &lt;p&gt;沒有嚮導的人，置身在一片原始森林的入口，裡面會有猛獸毒蟲兇禽，兇險在前。來到這森林之前，探險的興趣驅動他來到此地。既然如此，又何必管前路是否兇險？&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Engineering or Physics: A sucessful research enables problems which once seemed hopelessly complicated to be expressed so simply that we soon forget that they ever were problems. Thus the more sucessful a research, the more difficult does it become for those who use the result to apprecaite the labour which has been put into it. This perhaps is why the very people who live on the results of past researches are so often the most critical of the labour and effort which, in their time, is being expended to simolify the problems of the future. —British aerodynamicist Sir Bennett Melvill Jones&lt;/p&gt;
-&lt;p&gt;Research：research is re-search, redo it again and again with documents and publication。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;于2017/11/05 Melb&lt;/p&gt;
 &lt;h4 id="三記-一件事兒"&gt;三記： 一件事兒&lt;/h4&gt;
 &lt;p&gt;沒有想到自己會出奇的堅強。在整理過去的一堆文件時候，突然想到，新導師和诸多人合作都沒有嫌棄我，我又何必自己過於悲觀。他對我感興趣的原因，其實就是看到我的堅持，即使有如此的風險，我還是毅然決然的來到這個新的方向，他何嘗沒有看到我的勇氣和堅強。這應該是有一丟丟的尊重吧，而我又何必如一個苦修的禪師，只不過是找一件自己喜欢、盡力讓自己擅長的事情而已，誰管未來會如何。&lt;/p&gt;
-&lt;p&gt;The authors are fully aware of the limited achievements here as comparaed with the task of understatnding turbulence. Even though necessarily limited, the results in this book benefit from many years of work by the authors and from interdisciplinary exchanges among them and between them and others. R. Teman, C. Foias What we are talking about is how one should live&lt;/p&gt;
 &lt;p&gt;于2017/12/11 Melb&lt;/p&gt;
 &lt;h3 id="四記-悉尼之旅"&gt;四記： 悉尼之旅&lt;/h3&gt;
-&lt;p&gt;這篇日記疏於管理，緊張的學業也罷，不規律的生活也罷，眨眼一年過去了，既然不是及時記錄，那就寫寫回憶也好。&lt;/p&gt;
-&lt;p&gt;去年&amp;lt;2017&amp;gt;聖誕，與一小友&lt;過來訪學数月&gt;去悉尼旅行， 結尾則與舊未見的卓及其女友在唐人街吃飯送別。&lt;/p&gt;
+&lt;p&gt;這篇日記疏於管理，緊張的學業也罷，不規律的生活也罷，眨眼一年過去了，既然不是及時記錄，那就寫寫回憶也好。大前年(2017)聖誕，與一朋友（過來訪學数月）去悉尼旅行， 結尾則與舊久久未見的卓及其女友在唐人街吃飯送別；去年&lt;/p&gt;
 &lt;h3 id="五記我的處境"&gt;五記：我的處境&lt;/h3&gt;
 &lt;p&gt;轉過2018年，我又在記憶與期望中停頓； 這些年發生了很多，戀愛又失戀，延期又畢業，出國又必須回國。人生的經歷在這些歲月裡面不清不楚的矛盾中向前。無疑，我需要整理一下目前的處境。&lt;/p&gt;
 &lt;p&gt;往年的日記總是一個調性，即沉浸在自責情緒中，繼而決定努力。制定一些計劃，過後不去實施。自責的事情如下：看體育（足球與NBA）、無計劃、自瀆、看電影與小說、嗜睡晚起、短視自滿、不專注。目標常常為：學語言、有計劃性、看古文、寫論文、早起。今次想從大綱上展望一下未來幾年的規劃。&lt;/p&gt;

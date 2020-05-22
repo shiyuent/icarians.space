@@ -10,6 +10,7 @@ title: 法語入門
 1. set up your goal (讀、基本對話)
 
 2. break down into sub-goals
+
     時間軸上：
     - 2020.05 大體瞭解，做做前期準備。
 

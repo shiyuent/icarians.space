@@ -54,7 +54,7 @@ def main():
     micropostsdir = basedir + 'microposts/'
     sitedir = basedir + 'dist/'
     templatesdir = basedir + 'templates/'
-    homepostnum = 5
+    homepostnum = 10
     
     logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
     

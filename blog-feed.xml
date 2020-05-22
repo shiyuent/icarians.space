@@ -10,10 +10,10 @@
   </author>
   <generator>PyAtom</generator>
   <entry xml:base="https://icanians.space/dist/blog-feed.xml">
-    <title type="text">日語入門</title>
-    <id>2020-05-22-course-japanese.html</id>
+    <title type="text">法語入門</title>
+    <id>2020-05-22-course-french.html</id>
     <updated>2020-05-22T00:00:00Z</updated>
-    <link href="2020-05-22-course-japanese.html" />
+    <link href="2020-05-22-course-french.html" />
     <author>
       <name>Xiaowei Xu</name>
     </author>
@@ -30,12 +30,108 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   &lt;/style&gt;
+  &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"&gt;&lt;/script&gt;
   &lt;!--[if lt IE 9]&gt;
     &lt;script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"&gt;&lt;/script&gt;
   &lt;![endif]--&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;p&gt;想學日語有些時間了，決定從最近開始行動。關於學習新東西的步驟如下（Ways to learn new things） 1. set up your goal 2. break down into sub-goals - 2020.05 Hiragana (認/讀), Hanji（區分漢、日常用不同） 3. research on every sub-task, 3-5 resource focus on resources that repeatedly appear - Textbook - Youtuber: &lt;a href="https://www.youtube.com/user/taekimjapanese"&gt;Tae Kim&lt;/a&gt; - Websites: &lt;a href="http://res.wokanxing.info/jpgramma/index.html"&gt;日語語法指南&lt;/a&gt; - Reading materials: 4. remove barriers to practice 5. avoid distractions: focus 6. pre-commitment at least 20 hours to make it through (40 mins times 30 days)&lt;/p&gt;
+&lt;nav id="TOC"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#目标及学习资源"&gt;目标及学习资源&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;p&gt;一直嚮往法國近代的思想家，從薩特、福柯, 法語對我來說充滿誘惑力。&lt;/p&gt;
+&lt;h3 id="目标及学习资源"&gt;目标及学习资源&lt;/h3&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;&lt;p&gt;set up your goal (讀、基本對話)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;break down into sub-goals 時間軸上：
+&lt;ul&gt;
+&lt;li&gt;2020.05 大體瞭解，做做前期準備。&lt;/li&gt;
+&lt;/ul&gt;
+內容上：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/channel/UCEf0-WZoqYFzLZtx43KPvag"&gt;Learn French wih Vincent&lt;/a&gt; Unit-0 (May 22th, 1st), Unit-1 ?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;research on every sub-task, 3-5 resource focus on resources that repeatedly appear
+&lt;ul&gt;
+&lt;li&gt;Textbook： vis-à-vis&lt;/li&gt;
+&lt;li&gt;Youtuber: &lt;a href="https://www.youtube.com/channel/UCEf0-WZoqYFzLZtx43KPvag"&gt;Learn French wih Vincent&lt;/a&gt;、&lt;/li&gt;
+&lt;li&gt;Reading materials: ?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;remove barriers to practice&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;avoid distractions: focus&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;pre-commitment at least 20 hours to make it through (40 mins times 30 days)
+&lt;ul&gt;
+&lt;li&gt;2020.05 40min &lt;span class="math inline"&gt;\(\times\)&lt;/span&gt; 1&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
+  <entry xml:base="https://icanians.space/dist/blog-feed.xml">
+    <title type="text">日語入門</title>
+    <id>2020-05-21-course-japanese.html</id>
+    <updated>2020-05-21T00:00:00Z</updated>
+    <link href="2020-05-21-course-japanese.html" />
+    <author>
+      <name>Xiaowei Xu</name>
+    </author>
+    <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang=""&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8" /&gt;
+  &lt;meta name="generator" content="pandoc" /&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" /&gt;
+  &lt;title&gt;Untitled&lt;/title&gt;
+  &lt;style type="text/css"&gt;
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  &lt;/style&gt;
+  &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;!--[if lt IE 9]&gt;
+    &lt;script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"&gt;&lt;/script&gt;
+  &lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;nav id="TOC"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#目标及学习资源"&gt;目标及学习资源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#心得"&gt;心得&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;p&gt;想學日語有些時間了，決定從最近開始行動。&lt;/p&gt;
+&lt;h3 id="目标及学习资源"&gt;目标及学习资源&lt;/h3&gt;
+&lt;p&gt;關於學習新東西的步驟如下（Ways to learn new things）&lt;/p&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;&lt;p&gt;set up your goal (讀、基本對話)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;break down into sub-goals
+&lt;ul&gt;
+&lt;li&gt;2020.05 「平假名」Hiragana (認/讀), Hanji（區分漢、日常用不同）&lt;/li&gt;
+&lt;li&gt;2020.06 「片假名」&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;research on every sub-task, 3-5 resource focus on resources that repeatedly appear
+&lt;ul&gt;
+&lt;li&gt;Textbook: ?&lt;/li&gt;
+&lt;li&gt;Youtuber: &lt;a href="https://www.youtube.com/user/taekimjapanese"&gt;Tae Kim&lt;/a&gt;、&lt;a href="https://www.youtube.com/user/yasushijuly"&gt;Amber.L&lt;/a&gt;、&lt;a href="https://www.youtube.com/channel/UC-E_8kLFq7ApatmXnyNORLA/featured"&gt;Yuka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Websites: &lt;a href="http://res.wokanxing.info/jpgramma/index.html"&gt;日語語法指南&lt;/a&gt;、NHK&lt;/li&gt;
+&lt;li&gt;Reading materials: &lt;a href="https://www.asahi.com/rensai/list.html?id=61&amp;amp;iref=pc_rensai_article_breadcrumb_61"&gt;朝日新聞-天声人語&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;remove barriers to practice
+&lt;ul&gt;
+&lt;li&gt;not clear&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;avoid distractions: focus&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;pre-commitment at least 20 hours to make it through (40 mins times 30 days)
+&lt;ul&gt;
+&lt;li&gt;2020.05 30min &lt;span class="math inline"&gt;\(\times\)&lt;/span&gt; 4&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="心得"&gt;心得&lt;/h3&gt;
+&lt;p&gt;日語將漢字、外來語拆分成單音字節，如愛（あい）。每個音節發音時間等長(Japanese is a &lt;strong&gt;MORA-TIMED&lt;/strong&gt; language. English–&lt;strong&gt;STRESS-TIMED&lt;/strong&gt;)&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>

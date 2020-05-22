@@ -36,6 +36,8 @@ title: 博途碎念
 
 ### 二記： 森林尋路
 
+> Research：research is re-search, redo it again and again with documents and publication。
+
 前接上文，來此月余，最明顯體驗，在於內心的不安定感。所謂不安定感，不再是之前的恐慌，畢竟一個傭人能做的，是在此時狀況下多邁出一步路而已。不安定是在眾多研究想法中，無法找到合適的用力方向。力量有專注與集中才會有結果，而不是像我現在這樣子，有很多想法，卻不集中用力。而想要安定下來，就要和導師及自己達成共同的志向。顯然，此時和以後的導師都不會滿足這一點。所以要盡快的完成Dr的過程。在撿拾基礎的同時，發散自己的想法和興趣，與未來可能的基金相互融合。唯有有能力自立，才能去挑三揀四。
 
 同時，更為清晰的是對于此個方向的不滿足，不滿足的同時而且有些抵抗力。導師有二，大導師的資源和研究能力非常強，但是在過去的兩個月中從來沒有主動聯繫過我。唯一就是在我發一封郵件后，下午都的十幾分鐘的對話。小導師有很好的idea和國內的人脈，並且對于我期望很高，交付了幾乎目前新方向中最好的一個課題。如此好的條件，自己反感的是什麼？無疑開始反問自己想要獲得什麼，想要得到什麼。 而問題漸漸清晰的是，我需求對于數學、編程、語言的應用能力。 然而如果堅持在此時方向上，我固然可以做很多，卻離理想越來越遠。這是首個原因。其二，功利式的期待讓我的內心反而有所不適應。無法否認在以後的學術生涯中，我將花更多的時間和精力去追求功利式的應用，但在此時的四年裡面，我並不想如此。這是堅決而明確的唸頭。其三，在一個多月投入Concrete creep and shrinkage 和 Bridge Weigh-In-Motion的文獻研究后，一股抗力油然而生。抗力來源於熟識幾位專家的成果和所做的事情，自己在這些角度上形成了偏見： 與學術貴族的學子學孫相互競爭，且自己不夠喜歡的方向上前行，而抱有功利式的期待，這是對自己的不尊重。而同步去學習基礎物理、流體知識，越難越讓我認知到自己的堅持。我要記住此時的感受，此時的興趣，就是對與以後的興趣之源。而自己也更加清晰的認識到對于控制、穩定性、計算力學的喜愛。且不想讓自己一直處於世界各項發展的夕陽餘暉之中。
@@ -44,9 +46,8 @@ title: 博途碎念
 
 沒有嚮導的人，置身在一片原始森林的入口，裡面會有猛獸毒蟲兇禽，兇險在前。來到這森林之前，探險的興趣驅動他來到此地。既然如此，又何必管前路是否兇險？
 
-Engineering or Physics: A sucessful research enables problems which once seemed hopelessly complicated to be expressed so simply that we soon forget that they ever were problems. Thus the more sucessful a research, the more difficult does it become for those who use the result to apprecaite the labour which has been put into it. This perhaps is why the very people who live on the results of past researches are so often the most critical of the labour and effort which, in their time, is being expended to simolify the problems of the future. ---British aerodynamicist  Sir Bennett Melvill Jones
+> Engineering or Physics: A sucessful research enables problems which once seemed hopelessly complicated to be expressed so simply that we soon forget that they ever were problems. Thus the more sucessful a research, the more difficult does it become for those who use the result to apprecaite the labour which has been put into it. This perhaps is why the very people who live on the results of past researches are so often the most critical of the labour and effort which, in their time, is being expended to simolify the problems of the future. ---British aerodynamicist  Sir Bennett Melvill Jones
 
-Research：research is re-search, redo it again and again with documents and publication。
 
 于2017/11/05 Melb
 
@@ -54,16 +55,11 @@ Research：research is re-search, redo it again and again with documents and pub
 
 沒有想到自己會出奇的堅強。在整理過去的一堆文件時候，突然想到，新導師和诸多人合作都沒有嫌棄我，我又何必自己過於悲觀。他對我感興趣的原因，其實就是看到我的堅持，即使有如此的風險，我還是毅然決然的來到這個新的方向，他何嘗沒有看到我的勇氣和堅強。這應該是有一丟丟的尊重吧，而我又何必如一個苦修的禪師，只不過是找一件自己喜欢、盡力讓自己擅長的事情而已，誰管未來會如何。
 
-The authors are fully aware of the limited achievements here as comparaed with the task of understatnding turbulence. Even though necessarily limited, the results in this book benefit from many years of work by the authors and from interdisciplinary exchanges among them and between them and others.  R. Teman, C. Foias
-What we are talking about is how one should live
-
 于2017/12/11 Melb
 
 ### 四記： 悉尼之旅
 
-這篇日記疏於管理，緊張的學業也罷，不規律的生活也罷，眨眼一年過去了，既然不是及時記錄，那就寫寫回憶也好。
-
-去年<2017>聖誕，與一小友<過來訪學数月>去悉尼旅行， 結尾則與舊未見的卓及其女友在唐人街吃飯送別。
+這篇日記疏於管理，緊張的學業也罷，不規律的生活也罷，眨眼一年過去了，既然不是及時記錄，那就寫寫回憶也好。大前年(2017)聖誕，與一朋友（過來訪學数月）去悉尼旅行， 結尾則與舊久久未見的卓及其女友在唐人街吃飯送別；去年
 
 ### 五記：我的處境
 

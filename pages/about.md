@@ -7,7 +7,7 @@ Welcome to my space.
 
 Xiaowei is a Ph.D. candidate (started at Sep. 2017) in fluid mechanics under the supervision of [Prof. Richard Sanberg](https://findanexpert.unimelb.edu.au/profile/742813-richard-sandberg) at the [Unimelb Fluid Mechanics Group](https://fluids.eng.unimelb.edu.au/).
 
-I received a MPhil. in Bridge Engineering from Tongji University (同濟大學) supervised by [Prof. Yaojun Ge](https://bridge.tongji.edu.cn/Data/View/279) and [Prof. Yongxin Yang](https://bridge.tongji.edu.cn/Data/View/285) in 2017. Before that, I completed a B.Sc in Civil Engineering from Hunan University (嶽麓書院) under the supervision of Prof. Zhi Fang in 2013.
+I received a MPhil. in Bridge Engineering from Tongji University supervised by [Prof. Yaojun Ge](https://bridge.tongji.edu.cn/Data/View/279) and [Prof. Yongxin Yang](https://bridge.tongji.edu.cn/Data/View/285) in 2017. Before that, I completed a B.Sc in Civil Engineering from Hunan University under the supervision of Prof. Zhi Fang in 2013.
 
 I am interested in turbulence modelling, machine learning, and structures such as bridges, wind turbines. I am fond of reading books about history, philosophy and films. The [Icarians](https://en.wikipedia.org/wiki/Icarians) is named after a French-based utopian socialist movement. Though egalitarianism is an ideal dream in this scarity land, it is the lighthouse of taking care of minortiy groups and also the earth itself. 
 
@@ -45,7 +45,7 @@ Feel free to contact me via:
 
 *2017-09-05*  Enrolled in Infrastructure Engineering at Unimelb with Projects ‘RELIABILITY-BASED LIFE CYCLE ASSESSMENT MANAGEMENT OF BRIDGES’
 
-*2017-05-10*  Reading The Story of the Stone (紅樓夢) again while I was waiting for the COE
+*2017-05-10*  Reading books while I was waiting for the COE
 
 *2017-03-20* Master Degree Deference on ‘Aero Instability of Long Span Hybrid Suspension and Cable-stayed Bridges’ 
 

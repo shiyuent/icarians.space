@@ -115,6 +115,4 @@ title: 難別灞橋
 
 **Easy come, easy go. See you ————, somewhere, somehow.**
 
-<span style="font-family:Papyrus; font-size:4em;"> Easy come, easy go. See you ————, somewhere, somehow. </span> 
-
 附註，小節題目多起自的歌名。這段文字從2017年分手半年一直寫到2019年愚人節，周折過後刪盡。是記。

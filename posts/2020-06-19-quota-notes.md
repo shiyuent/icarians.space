@@ -4,6 +4,8 @@ date: 2020-06-19
 title: 拾人牙慧
 ---
 
+王国维： 山寺微茫背夕曛，鳥飛不到半山昏。上方孤磬定行雲。試上高峰窺皓月，偶開天眼覷紅塵。可憐身是眼中人。 (1905年、28岁)
+
 錢偉長： 上學的機會是受人控制的，但讀書與實踐才是獲取知識的主要課堂。在這個學校中學習的權利只掌握在你自己的手中，是任何人都剝奪不了的。讓學習成為一種生活的習慣。這比任何名牌大學的校徽重要的多。
 
 文小刚：學生都是在吸收知識、消費知識，做計算，然後掌握知識，學校不太注意讓大家去胡思亂想，去猜。 但是做研究，猜是特別特別的重要。 强调新颖比正确更重要，是强调大胆猜想，对不对以后再说。如果你光寻求正确的话，不容易跳出原来的框框。
@@ -23,3 +25,24 @@ The ideas of economists and political philosophers, both when they are right and
 亦舒: 能够哭就好，哭是开始痊愈的象征。「绝对是个梦」 
 
 亦舒： 自幼贫民窟长大的女子，侥幸多念了两本书，枉以为可以与人平起平坐。可是人生从来都是接力赛，我们却天真的当成了百米冲刺。你我都是凡人，能冲出原始阶层的人极少，女子尤甚。在婚姻面前，爱情太渺小，真正的阻力并非他人的压力和低看，那是流淌在骨子里的基因，敏感，脆弱。 「承欢记」
+
+Life is essentially a cheat and its conditions are those of defeat; the redeeming things are not happiness and pleasure but the deeper satisfactions that come out of struggle. --F. S. Fitzgerald
+
+Komm nicht zurück. Wenn du's erträgst, so seitot bei den Toten. Tote sind beschäftigt. Doch hilf mir so, daß es dich nicht zerstreut, wie mir das Fernste manchmal hilft: in mir. ---Rainer Maria Rilke ‘’Requiem‘’ (1908)
+
+Programs should be written for people to read, and only incidentally for machines to execute.--SICP
+
+无穷的远方，无数的人们， 都和我有关。
+
+“The mark of the immature man is that he wants to die nobly for a cause, while the mark of the mature man is that he wants to live humbly for one.” ― J.D. Salinger, The Catcher in the Rye
+
+“Writing could obscure the truth and trap the living, and it could destroy as well as create. But the search for meaning had a dignity that transcended all of the flaws.” —Peter Hessler, Oracle Bones
+
+"Masks are arrested expressions and admirable echoes of feeling, at once faithful, discreet, and superlative. ....... I would not say that substance exists for the sake of appearance, or faces for the sake of masks, or the passions for the sake of poetry and virtue. Nothing arises in nature for the sake of anything else; all these phases and products are involved equally in the round of existence..." - George Santayana, Soliloquies in England and Later Soliloquies
+
+je suis moi-même la matière de mon livre. Wonder is the foundation of all philosophy, inquiry its progress, ignorance its end. --Michel de Montaigne
+
+
+To start low, but aim high.
+心怀光明，不惧黑暗。der wille zur macht
+

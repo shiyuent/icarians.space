@@ -1,11 +1,8 @@
 ---
 template: post
-date: 2015-07-23
+date: 2020-01-01
 title: 讀書雜記
 ---
-
-
-
 
 ## 201903-The crowd, a study on popular mind {sentiments and morality of crowds} 
 Ernst Haeckel (1834-1919) promoted and popularized Charles Darwin (1809-1882) 

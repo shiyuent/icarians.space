@@ -2,13 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Xiaowei Xu's Microblog</title>
   <id>https://icanians.space/dist/microblog-feed.xml</id>
-  <updated>2020-05-01T00:00:00Z</updated>
+  <updated>2020-06-20T00:00:00Z</updated>
   <link href="http://icarians.space" />
   <link href="https://icanians.space/dist/microblog-feed.xml" rel="self" />
   <author>
     <name>Xiaowei Xu</name>
   </author>
   <generator>PyAtom</generator>
+  <entry xml:base="https://icanians.space/dist/microblog-feed.xml">
+    <title type="text">2020-06-20</title>
+    <id>microblog.html</id>
+    <updated>2020-06-20T00:00:00Z</updated>
+    <link href="microblog.html" />
+    <author>
+      <name>Xiaowei Xu</name>
+    </author>
+    <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang=""&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8" /&gt;
+  &lt;meta name="generator" content="pandoc" /&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" /&gt;
+  &lt;title&gt;Untitled&lt;/title&gt;
+  &lt;style type="text/css"&gt;
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  &lt;/style&gt;
+  &lt;!--[if lt IE 9]&gt;
+    &lt;script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"&gt;&lt;/script&gt;
+  &lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;&lt;strong&gt;碎言碎语&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;政府不再通過大棒和自上而下的恐懼維持穩定與順從，而是識圖把馴服變成更像遊戲，獎勵制度的遊戲。&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
   <entry xml:base="https://icanians.space/dist/microblog-feed.xml">
     <title type="text">2020-05-01</title>
     <id>microblog.html</id>

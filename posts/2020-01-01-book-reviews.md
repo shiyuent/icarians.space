@@ -4,13 +4,18 @@ date: 2020-01-01
 title: 讀書雜記
 ---
 
+
+&nbsp; 
+
 ## 201903-木心：雲雀叫了一整天
 
 物性（食感）、歷史地點的感與看理； 人類是一種喜歡看戲的動物。我一生沒有得到誰的鼓勵。對愛情的絕望，還只是對人性的絕望的悄然一角。往往是還未開始愛，愛已過去了。情愛的觖望，每次不一樣，也可說都一樣。麻木的人都愛說跟著感覺走。其實每一次戀都是初戀。慈悲實出於無奈。不由衷的笑，附和性的笑，如此累人。我的情人因自己美得足夠故而不計較我的醜。女孩攏頭髮時斜眼一笑很好看。可悲的是眼看友人迷失本性，更可悲的是也許這正是他的本性。我追索人心的深度，卻看到了人心的淺薄。在我面前，你永遠無過失。我喜歡冷冷清清的熱鬧一番 （生活最佳狀態是冷冷清清地風風火火）。我最瞧不起少年時期的我，良善到可恥。負心，不奇，奇的是負心之前的一片真心。那些吃苦也像享樂似的歲月，便叫青春。貪吃家鄉食品，是咀嚼童年呀。官癮即奴癮。自殺者都是被殺的。不會思想的人的思想是可怕的。凡是我看不起的人，我總要多看兩眼。鄭人買履、脉脉斜陽、
 
 
-## 201902-傅雷家書
 
+
+
+## 201902-傅雷家書
 
 傅雷（1908-1966）、傅聰（Fou Ts'ong 1934-）
 
@@ -100,6 +105,26 @@ perceptive, Reflection is what really gives people culture.
 該書不具備教子上學習意義，讀者和傅家的家庭、社會、歷史環境差別太大了；對於傅雷較為傳統的教育方法也不為鼓勵。該書更像是一個沒有體系的藝術鑒賞的概論。taste是什麼（蘊藉的持中）？如何熏陶和建立taste（美育）？ 古文中美學欣賞，對於西學中的作用是什麼？音樂與古文相同麼？等看法更具有意義。
 
 
+
+### 201901-尚永亮：詩映大唐春
+
+从詩中讀出文人生活的物質、精神的風貌，其中包括精神、仕宦生涯、生活樣態、科舉/教子（家中、學校、寺院）等。唐五代（618-907）共289年唐+53年五代，历经21位唐朝皇帝：祖太高中睿武玄，肃代德顺宪穆敬，文武宣懿僖昭哀。按初、盛、中、晚分爲七個代羣。一代：上官體，綺錯婉媚。二代：四傑、沈佺期 宋之問（永明題，四聲二元化）。三代：盛唐之音，李杜； 四代：大歷十才子。 五代：韓孟、元白；。六代，小李杜。 七代。
+
+
+
+**科舉与门第**
+
+（仕，读书、赶考、行卷）-隱逸（身心、終南捷徑）-漫遊（條件：交通便利、富足，地域：燕趙、巴蜀、浙東<揚州>、長安；行為：題壁、送別、幹謁<物質、筆墨> ）-邊塞嚮往（崤函、李益）-仕宦（幕府、园林情趣、党争、贬谪）-消遣（宴集唱和、胡舞劍舞、聽樂、書、畫、酒、茶、節、婚戀、生財）
+
+>   薛中书元超谓所亲曰：吾不才，富贵过分。然平生有三恨，始不以进士擢第，不得娶五姓（世家大族）女，不得修国文。
+
+**诗人**
+
+孟浩然-襄陽、鹿門山、峴山、涧南園、萬山（清、閒遠、率真直露、舟<旅行>）| 王維-辋川，秀、幽深、委婉含蓄 ｜高适-（质理\哥舒翰）岑参- (巧景\封常清）｜刘禹锡- 柳宗元（永州）- 韩愈（潮州）-（逐臣，初踏贬途、到达贬所的磨难、被抛弃、拘囚和生命沉淪和苦悶）
+
+參考文獻：清代葉燮-原詩、明-胡應麟-詩藪、太平廣記。
+
+
 ## 201507-西遊記
 
 
@@ -170,29 +195,61 @@ perceptive, Reflection is what really gives people culture.
 
 
 ## 201903-The crowd, a study on popular mind {sentiments and morality of crowds}
- 
-Ernst Haeckel (1834-1919) promoted and popularized Charles Darwin (1809-1882) 
-Racial rioting in the US from 1964-71 
+
 Inconcient hypnotique , Crowd, mass, public, excessive sentiments 
- Preparatory (remote) factors: race, traditions, time, political and social institutions, institution and education 
-Immediate factors: images-words-and-formula, illusions, experience, reason (trivially) 
- Leader: means of persuasion, affirmation-repetition-contagious (ideas, sentiments, emotions, and beliefs possess in crowds a contagious power) 
- [To exaggerate, to affirm, to resort to repetitions, and never to attempt to prove anything by reasoning are methods of argument well known to speakers at public meetings. P.35] 
-Crowds exhibit a docile respect for force, and are but slightly impressed by kindness, which for them is scarcely other than a form of weakness. ….. A crowd is always ready to revolt against a feeble and to bow down servilely before a strong authority. P. 38-39 
- A long time is necessary for ideas to establish themselves in the minds of crowds, but just as long a time is needed for them to eradicated. P.51 
-The power of conquerors and the strength of states is based on the popular imagination……. All great historical facts, the rise of Buddhism, of Christianity, of Islamist, the Reformation, the French Revolution, and, in our own time, the threatening invasion of Socialism are the direct or indirect consequences of strong impression produced on the imagination of the crowd. P.56 
-[It is not, then, the facts in themselves that strike the popular imagination, but the way in which they take place and are brought under notice, …….To know the art of impressing the imagination of crowds is to know at the same time the art of governing them. P.58] 
-All founders of religious or political creeds have established them solely because they were successful in inspiring crowds with those fanatical sentiments which have as result that men find their happiness in worship and obedience and are ready to lay down their lives for their idol. P.61 
-Political and social organizations are works that demand centuries. P. 75 by M. Lavisse  
-Many eminent philosophers, among them Herbert Spencer, have hand no difficulty in showing that instruction neither renders a man more moral nor happier, that it changes neither his instincts nor his hereditary passions, and that at times- for this to happen it need only be badly directed- it is much more pernicious than useful. P. 81 
-It is seen, then, that the same word which signifies for one people the subordination of the will and the initiative of the individual and the preponderance of the State, signifies for the another the excessive development of the will and the initiative of the individual and the complete subordination of the State. P.103 
-The social illusion reigns today upon all the heaped-up ruins of the past, and to it belongs the future. The masses have never thirsted after truth. They turn aside from evidence that is not to their taste, preferring to deify error, if error seduce them. P.105 
-A crowd is servile flocks that is incapable of ever doing without a master. …..two classes of leader… The one includes the men who are energetic and possess, but only intermittently, much strength of will, the other the men, far rarer than the preceding, whose strength of will is enduring. ( a strong and continuous will) P. 117 
-Prestige: Acquired or artificial prestige is much the most common. The mere fact that an individual occupies a certain position, possesses  a certain fortune, or bears certain titles, endows him with prestige, however slight him own personal worth. (Two principal head, acquired prestige and personal prestige) P.128 
-Great permanent beliefs, In the second place, there are the transitory, changing opinions, the out come as a rule, of general conceptions , of which every age sees the birth and disappearance; examples in point are the theories which mound literature and the arts- those, for instance, which produced romanticism, naturalism, mysticism, etc. P.142 
 
 Crowd: 
+
 - A. Heterogenous crowds (1. Anonymous crowds {street crowds, for exp.}, 2. Crowds not anonymous {juries, parliamentary assemblies , etc.}) 
-- B. Homogenous crowds (1. Sects {political sects, religious sects, etc.}, 2. Castes {the military caste, the priestly caste, the working caste, etc.}, 3. Classes {the middle classes, the peasant classes, etc.}) P. 158 [criminal juries, electoral crowds, parliamentary assemblies, ]  
+
+- B. Homogenous crowds (1. Sects {political sects, religious sects, etc.}, 2. Castes {the military caste, the priestly caste, the working caste, etc.}, 3. Classes {the middle classes, the peasant classes, etc.}) P. 158 criminal juries, electoral crowds, parliamentary assemblies, 
 
 
+Preparatory (remote) factors: race, traditions, time, political and social institutions, institution and education 
+Immediate factors: images-words-and-formula, illusions, experience, reason (trivially) 
+
+ Leader: means of persuasion, affirmation-repetition-contagious (ideas, sentiments, emotions, and beliefs possess in crowds a contagious power) 
+
+ To exaggerate, to affirm, to resort to repetitions, and never to attempt to prove anything by reasoning are methods of argument well known to speakers at public meetings. P.35
+
+Crowds exhibit a docile respect for force, and are but slightly impressed by kindness, which for them is scarcely other than a form of weakness. ….. A crowd is always ready to revolt against a feeble and to bow down servilely before a strong authority. P. 38-39 
+
+ A long time is necessary for ideas to establish themselves in the minds of crowds, but just as long a time is needed for them to eradicated. P.51 
+
+The power of conquerors and the strength of states is based on the popular imagination……. All great historical facts, the rise of Buddhism, of Christianity, of Islamist, the Reformation, the French Revolution, and, in our own time, the threatening invasion of Socialism are the direct or indirect consequences of strong impression produced on the imagination of the crowd. P.56 
+
+It is not, then, the facts in themselves that strike the popular imagination, but the way in which they take place and are brought under notice, …….To know the art of impressing the imagination of crowds is to know at the same time the art of governing them. P.58
+
+All founders of religious or political creeds have established them solely because they were successful in inspiring crowds with those fanatical sentiments which have as result that men find their happiness in worship and obedience and are ready to lay down their lives for their idol. P.61 
+
+Political and social organizations are works that demand centuries. P. 75 by M. Lavisse  
+
+Many eminent philosophers, among them Herbert Spencer, have hand no difficulty in showing that instruction neither renders a man more moral nor happier, that it changes neither his instincts nor his hereditary passions, and that at times- for this to happen it need only be badly directed- it is much more pernicious than useful. P. 81 
+
+It is seen, then, that the same word which signifies for one people the subordination of the will and the initiative of the individual and the preponderance of the State, signifies for the another the excessive development of the will and the initiative of the individual and the complete subordination of the State. P.103 
+The social illusion reigns today upon all the heaped-up ruins of the past, and to it belongs the future. The masses have never thirsted after truth. They turn aside from evidence that is not to their taste, preferring to deify error, if error seduce them. P.105 
+
+A crowd is servile flocks that is incapable of ever doing without a master. …..two classes of leader… The one includes the men who are energetic and possess, but only intermittently, much strength of will, the other the men, far rarer than the preceding, whose strength of will is enduring. ( a strong and continuous will) P. 117 
+
+Prestige: Acquired or artificial prestige is much the most common. The mere fact that an individual occupies a certain position, possesses  a certain fortune, or bears certain titles, endows him with prestige, however slight him own personal worth. (Two principal head, acquired prestige and personal prestige) P.128 
+
+Great permanent beliefs, In the second place, there are the transitory, changing opinions, the out come as a rule, of general conceptions , of which every age sees the birth and disappearance; examples in point are the theories which mound literature and the arts- those, for instance, which produced romanticism, naturalism, mysticism, etc. P.142 
+
+
+## 其他
+
+- **沈復：浮生六記**： 與芸往事，動人。昔一粥而聚，今一粥而散。芸，浮草之命，不見容於姑翁，夫隨厚然懦而無責；有雲之清潔，命一瞬而逝。
+
+- **北岛：城門開**：光與影：白熾燈，講故事，幻想，飢，大白菜，煤，野冰，髒冰，鹹蛋魚味，尿騷，雨雷，大白兔，味精與鮮，處理冰棍、 聲音： 吆喝、 家具 唱片 釣魚 養兔子 踅摸
+
+
+- **張永和：作文本**
+
+Rodney Place : 使用、错用、滥用 | 空間 形態 功用 | 建築設計： 對自己所經歷的生活事件的發生、發展和結果同人造環境對這些事件的支持與制約之間的關係有十分敏銳的觀察力（體驗細節）| 不要輕易拋掉那些自己以為幼稚可笑的想法，因為這些想法之所以出現不是沒有道理的 | 設計者應擴展生活事件與人造環境之間的積極關係，讓自己設計的舞台上能演出更為精彩的節目來 | space inbetween | 概念物體 窺視 
+
+新 | 設計 | 一，我不知道我說不知的東西 （客觀條件的限制） | 二， 我不想知道的東西 — 我不相信的或者認為根本錯誤的東西 （自己的偏見帶來的限制） | 一個煙斗不是煙斗，一個男人是女人 | 變帶來的問題，變帶來陌生感 | 文學 / 電影 與建築 | TIME / THIN city | 
+
+
+- **齊邦媛：巨流河**
+
+南开中学回忆， 淘气包，集体宿舍回忆，18张通铺，懵懂的爱情，臭虫与敌机，友人 | 张忠谋，童子军训练，焦黑尸体，承继，辩论会，大轰炸 | 文化与空袭的双侧面，友情，茫然，南开～精英～诚挚纯洁|  大飞，一句话，一辈子没见一面。 |  夜莺与西风，自然与人声 | 人生思恋一人足矣 大飞

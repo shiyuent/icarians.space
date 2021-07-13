@@ -52,12 +52,15 @@ Feel free to contact me via:
 ---
 
 **Projects**
+- 
 
-Mechanism analysis and performance of recycled aggregate concrete improved by cementitious materials (DSP and RPC), 2010-2013, Students Innovation Training Program (National Level) with $ 3,000 grant
+- The Fundamental Research on the Control of Life Cycle Hazard Evolution and Performance Design of Super Long Span Bridges,Participation,2013CB036300
 
-The Fundamental Research on the Control of Life Cycle Hazard Evolution and Performance Design of Super Long Span Bridges,Participation,2013CB036300
+- Wind Tunnel Study on Wind-resistant Performances of Shuitu Jialing River Cable-stayed Bridge in Chongqing, 2014-2015, TYLIN International Engineering Consulting (China) Co. LTD. 
+- 
+- Mechanism analysis and performance of recycled aggregate concrete improved by cementitious materials (DSP and RPC), 2010-2013, Students Innovation Training Program (National Level) with $ 3,000 grant
 
-Wind Tunnel Study on Wind-resistant Performances of Shuitu Jialing River Cable-stayed Bridge in Chongqing, 2014-2015, TYLIN International Engineering Consulting (China) Co. LTD. 
+
 
 ---
 
